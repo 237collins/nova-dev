@@ -13,4 +13,4 @@ services:
       - key: APP_KEY
         value: base64:0x1r/XCUeJUa8nu4hXBLMp1UewtNP85dfGKpfQoAs1c=
       - key: APP_URL
-        value: https://nova-dev-production.up.railway.app
+        value: https://nova-dev.onrender.com
